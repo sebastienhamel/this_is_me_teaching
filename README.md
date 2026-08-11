@@ -13,3 +13,6 @@
 
 ## Links
 This is Google's [site](https://www.google.com)
+
+## Image
+![Image of an Hexacat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
